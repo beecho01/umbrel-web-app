@@ -1,7 +1,7 @@
 <div id="top">
 
 <p align="center">
-  <img src="" alt="Umbrel Logo" width="85%">
+  <img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/refs/heads/main/docs/assets/svg/umbrel-logo.svg" alt="Umbrel Logo" width="15%">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/docs/assets/svg/line.svg" alt="line break" width="100%" height="3px">
+<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/refs/heads/main/docs/assets/svg/line.svg" alt="line break" width="100%" height="3px">
 
 ## Quick Links
 
@@ -25,14 +25,14 @@
 - [Gallery](#gallery)
 - [Contributing Guidelines](#contributing-guidelines)
 
-<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/docs/assets/svg/line.svg" alt="line break" width="100%" height="3px">
+<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/refs/heads/main/docs/assets/svg/line.svg" alt="line break" width="100%" height="3px">
 
 ## Introduction
 
-<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/docs/assets/svg/line.svg" alt="line break" width="100%" height="3px">
+<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/refs/heads/main/docs/assets/svg/line.svg" alt="line break" width="100%" height="3px">
 
 ## Gallery
 
-<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/docs/assets/svg/line.svg" alt="line break" width="100%" height="3px">
+<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/refs/heads/main/docs/assets/svg/line.svg" alt="line break" width="100%" height="3px">
 
 ## Contributing Guidelines
