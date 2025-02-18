@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/refs/heads/main/docs/assets/svg/umbrel-logo.svg" alt="Umbrel Logo" width="15%">
   </p>
 
-  <p style="font-size: xxx-large;" align="center">Umbrel Web App</p>
+  <h1 align="center">Umbrel Web App</h1>
 
   <p align="center">
     <em>A fullscreen webview wrapper for a locally hosted Umbrel OS instance.</em>
