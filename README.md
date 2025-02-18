@@ -16,22 +16,23 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/docs/assets/svg/line-gradient.svg" alt="line break" width="100%" height="3px">
+<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/docs/assets/svg/line.svg" alt="line break" width="100%" height="3px">
 
 ## Quick Links
 
-- [Intro](#introduction)
+- [Quick Links](#quick-links)
+- [Introduction](#introduction)
 - [Gallery](#gallery)
-- [Contributing Guidelines](#contributing)
+- [Contributing Guidelines](#contributing-guidelines)
 
-<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/docs/assets/svg/line-gradient.svg" alt="line break" width="100%" height="3px">
+<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/docs/assets/svg/line.svg" alt="line break" width="100%" height="3px">
 
 ## Introduction
 
-<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/docs/assets/svg/line-gradient.svg" alt="line break" width="100%" height="3px">
+<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/docs/assets/svg/line.svg" alt="line break" width="100%" height="3px">
 
 ## Gallery
 
-<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/docs/assets/svg/line-gradient.svg" alt="line break" width="100%" height="3px">
+<img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/docs/assets/svg/line.svg" alt="line break" width="100%" height="3px">
 
 ## Contributing Guidelines
