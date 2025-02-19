@@ -20,7 +20,8 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#000000"
       },
-      "package": "uk.co.beecho01.umbrelwebapp"
+      "package": "uk.co.beecho01.umbrelwebapp",
+      "useCleartextTraffic": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
