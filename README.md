@@ -42,7 +42,7 @@ This project aims to enhance your interaction with Umbrel by eliminating the nee
 
 ## Gallery
 
-| <img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/refs/heads/main/docs/assets/Screenshot_20250218_191251_Expo%20Go.png"> | <img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/refs/heads/main/docs/assets/Screenshot_20250218_191256_Expo%20Go.png" > |
+| <img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/refs/heads/main/docs/assets/png/Screenshot_20250218_191251_Expo%20Go.png"> | <img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/refs/heads/main/docs/assets/png/Screenshot_20250218_191256_Expo%20Go.png" > |
 | --- | --- |
 
 <img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/refs/heads/main/docs/assets/svg/line.svg" alt="line break" width="100%" height="3px">
