@@ -14,6 +14,7 @@
     <a href="https://opensource.org/license/mit/">
       <img src="https://img.shields.io/github/license/beecho01/umbrel-web-app?logo=opensourceinitiative&style=for-the-badge&logoColor=white&label=License&color=8257e6" alt="MIT License">
     </a>
+    <img src="https://img.shields.io/github/languages/code-size/beecho01/umbrel-web-app?style=for-the-badge&color=8257e6">
   </p>
 
 </div>
