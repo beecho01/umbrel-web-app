@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/license-CC--BY--NC--SA--4.0?style=for-the-badge&logoColor=white&label=License&color=8257e6""></a>
+    <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-8257e6?style=for-the-badge&logoColor=white&label=License&color=8257e6""></a>
     <img src="https://img.shields.io/github/languages/code-size/beecho01/umbrel-web-app?style=for-the-badge&color=8257e6">
     <img src="https://img.shields.io/github/package-json/v/beecho01/umbrel-web-app?style=for-the-badge&color=8257e6">
     <img src="https://img.shields.io/github/languages/top/beecho01/umbrel-web-app?style=for-the-badge&color=8257e6">
