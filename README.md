@@ -31,7 +31,11 @@
 
 ## Introduction
 
-Work in progress
+The Umbrel Web App is an Android application that serves as a fullscreen webview wrapper, enabling seamless access to your locally hosted Umbrel OS instance. By encapsulating the Umbrel dashboard within a dedicated Android app, it offers a more integrated and user-friendly experience for managing your personal server directly from your mobile device.
+
+Umbrel OS is a beautiful home server operating system that enables self-hosting with an app store. You can buy a pre-built Umbrel Home with Umbrel OS, or install it on a Raspberry Pi or any x86 system. 
+
+This project aims to enhance your interaction with Umbrel by eliminating the need to access the dashboard through a web browser, instead providing a native Android application experience.
 
 <img src="https://raw.githubusercontent.com/beecho01/umbrel-web-app/refs/heads/main/docs/assets/svg/line.svg" alt="line break" width="100%" height="3px">
 
