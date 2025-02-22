@@ -15,8 +15,9 @@
     "@react-navigation/native-stack": "latest",
     "@supabase/supabase-js": "latest",
     "events": "^3.3.0",
-    "expo": "~52.0.35",
-    "expo-camera": "latest",
+    "expo": "52.0.36",
+    "expo-build-properties": "~0.13.2",
+    "expo-camera": "16.0.17",
     "expo-dev-client": "~5.0.12",
     "expo-linear-gradient": "latest",
     "expo-network": "~7.0.5",
@@ -25,6 +26,7 @@
     "react": "18.3.1",
     "react-native": "0.76.7",
     "react-native-gesture-handler": "~2.20.2",
+    "react-native-keyevent": "^0.3.2",
     "react-native-reanimated": "latest",
     "react-native-safe-area-context": "4.12.0",
     "react-native-screens": "~4.4.0",
@@ -38,6 +40,6 @@
     "typescript": "^5.3.3"
   },
   "private": true,
-  "name": "a0-project",
-  "version": "1.0.0"
+  "name": "umbrel-web-app",
+  "version": "1.0.3"
 }

@@ -2,7 +2,7 @@
   "expo": {
     "name": "Umbrel Web App",
     "slug": "umbrel-web-app",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -20,8 +20,7 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#000000"
       },
-      "package": "uk.co.beecho01.umbrelwebapp",
-      "useCleartextTraffic": true
+      "package": "uk.co.beecho01.umbrelwebapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -32,6 +31,13 @@
         "projectId": "f07f821e-0d8f-4ebd-843f-aa586f4131b3"
       }
     },
-    "owner": "beecho01"
+    "owner": "beecho01",
+    "plugins": [
+      ["expo-build-properties", 
+        { "android": 
+          { "usesCleartextTraffic": true } 
+        }
+      ]
+    ]
   }
 }
