@@ -2,7 +2,7 @@
   "expo": {
     "name": "Umbrel Web App",
     "slug": "umbrel-web-app",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -33,11 +33,15 @@
     },
     "owner": "beecho01",
     "plugins": [
-      ["expo-build-properties", 
-        { "android": 
-          { "usesCleartextTraffic": true } 
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "usesCleartextTraffic": true
+          }
         }
-      ]
+      ],
+      "expo-font"
     ]
   }
 }

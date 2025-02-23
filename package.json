@@ -7,6 +7,8 @@
     "ios": "expo run:ios"
   },
   "dependencies": {
+    "@babel/preset-env": "7.1.6",
+    "@expo-google-fonts/inter": "^0.2.3",
     "@react-native-async-storage/async-storage": "1.23.1",
     "@react-native-community/netinfo": "^11.4.1",
     "@react-native-community/slider": "latest",
@@ -15,18 +17,25 @@
     "@react-navigation/native-stack": "latest",
     "@supabase/supabase-js": "latest",
     "events": "^3.3.0",
-    "expo": "52.0.36",
+    "expo": "^52.0.37",
+    "expo-app-loading": "^2.1.1",
     "expo-build-properties": "~0.13.2",
     "expo-camera": "16.0.17",
     "expo-dev-client": "~5.0.12",
+    "expo-font": "~13.0.4",
     "expo-linear-gradient": "latest",
+    "expo-modules-autolinking": "~2.0.0",
+    "expo-modules-core": "~2.2.2",
     "expo-network": "~7.0.5",
+    "expo-splash-screen": "~0.29.22",
     "expo-status-bar": "~2.0.1",
     "lucide-react-native": "latest",
     "react": "18.3.1",
     "react-native": "0.76.7",
     "react-native-gesture-handler": "~2.20.2",
+    "react-native-inset-shadow": "^1.0.3",
     "react-native-keyevent": "^0.3.2",
+    "react-native-modal": "^13.0.1",
     "react-native-reanimated": "latest",
     "react-native-safe-area-context": "4.12.0",
     "react-native-screens": "~4.4.0",
@@ -41,5 +50,5 @@
   },
   "private": true,
   "name": "umbrel-web-app",
-  "version": "1.0.3"
+  "version": "1.0.5"
 }
